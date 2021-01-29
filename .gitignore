@@ -1,3 +1,6 @@
+# packages do not belong to this repo
+viz_engine/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
