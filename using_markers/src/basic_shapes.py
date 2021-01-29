@@ -9,7 +9,7 @@ from visualization_msgs.msg import Marker
 def marker():
     pub = rospy.Publisher('visualization_marker', Marker, queue_size=10)
     rospy.init_node('basic_shapes', anonymous=True)
-    rate = rospy.Rate(1)  # 10Hz
+    rate = rospy.Rate(1)  # 1Hz
 
     shape = Marker.CUBE
 
