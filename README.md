@@ -12,3 +12,4 @@ This repo covers using rviz with Python.
 ### Tutorial 01 (Markers: Sending Basic Shapes)
 
 ![tutorials_01](assets/tutorials_01.gif)
+![tutorials_02](assets/tutorials_02.gif)
